@@ -7,5 +7,3 @@
 #
 layout: default
 ---
-
-# Hello
