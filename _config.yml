@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi there! My name's Luis and I'm an electrical and systems engineering student. 
   In addition to working with electrical equipment and administrating networks, 
   I also have experience making software, web apps, solving problems and CAD designing. 
-  I enjoy solving problems, specially if they require some clever approach that I've never learned before. 
+  I enjoy solving problems, especially if they require some clever approach that I've never learned before. 
   This means that I'm better suited for back-end development and managing databases, but I can do front-end, UI/UX as well.
   
   
@@ -74,7 +74,7 @@ content:
         quote: >
           Feel free to visit my Github repositories.
         description: | # this will include new lines to allow paragraphs
-          I deployed this web app using Heroku. The backend is based on Python and Flask with a MongoDB NOSQL database. The best feature
+          I deployed this web app using Heroku. The backend is based on Python and Flask with a MongoDB database. The best feature
           of this project is the automatic e-mailing to both parties regarding the appointments. I also added threading to the code,
           so that the emailing task doesn´t make the website feel sluggish. The code could be rewritten to focus on asynchronous tasks to have a
           better control on the timing, specially if the software requires scaling. 
