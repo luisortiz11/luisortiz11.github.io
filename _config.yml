@@ -51,8 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi there! My name's Luis and I'm an electrical and systems engineering student. 
   In addition to working with electrical equipment and administrating networks, 
   I also have experience making software, web apps, solving problems and CAD designing. 
-  I enjoy solving problems, especially if they require some clever approach that I've never learned before. 
-  This means that I'm better suited for back-end development and managing databases, but I can do front-end, UI/UX as well.
+  I enjoy solving problems, especially if they require figuring out some clever approach that I've never learned before. 
+  This means that I'm better suited for designing solutions, systems architecture, back-end development and managing databases, 
+  but I can be quite artistic for doing front-end and UI/UX as well.
   
   
 
@@ -83,7 +84,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in electrical engineering, networks, and software engineering some of my other interests and hobbies are:
+      Alongside my interests in electrical engineering, networks, software and systems, some of my other interests and hobbies are:
       - Weightlifting
       - Basketball
       - Volleyball
