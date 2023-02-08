@@ -56,8 +56,8 @@ about_content: | # this will include new lines to allow paragraphs
   but I can push myself for doing front-end and be quite artistic for doing UI/UX as well.
   
   Here you can find my resume: 
-  [English]({{https://github.com/luisortiz11/luisortiz11.github.io/raw/main/Luis%20Daniel%20Ort%C3%ADz%20Montero.en.pdf}}) 
-  [Spanish]({{https://github.com/luisortiz11/luisortiz11.github.io/raw/main/Luis%20Daniel%20Orti%CC%81z%20Montero.pdf}}) 
+  [English](https://github.com/luisortiz11/luisortiz11.github.io/raw/main/Luis%20Daniel%20Ort%C3%ADz%20Montero.en.pdf) 
+  [Spanish](https://github.com/luisortiz11/luisortiz11.github.io/raw/main/Luis%20Daniel%20Orti%CC%81z%20Montero.pdf) 
 
 content:
   - title: Best Projects # Title for the section
