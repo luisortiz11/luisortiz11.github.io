@@ -48,12 +48,12 @@ linkedin_username: luis-ortíz-bd1102
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Hi there! My name is Luis, and I’m an electrical and systems engineering student.
-In addition to working with electrical equipment and administering networks,
-I also have experience making software, web apps, solving problems, and CAD designing. 
-I enjoy solving problems, especially if they require figuring out some clever approach that I’ve never learned before. 
-This means that I’m better suited for designing solutions, system architectures, back-end development, and managing databases, 
-but I can push myself to do front-end and be quite artistic for doing UI/UX as well.
+  Hi there! My name is Luis, and I’m an electrical and systems engineering student.
+  In addition to working with electrical equipment and administering networks,
+  I also have experience making software, web apps, solving problems, and CAD designing. 
+  I enjoy solving problems, especially if they require figuring out some clever approach that I’ve never learned before. 
+  This means that I’m better suited for designing solutions, system architectures, back-end development, and managing databases, 
+  but I can push myself to do front-end and be quite artistic for doing UI/UX as well.
   
   Here you can download my resume on pdf: 
   [English](https://github.com/luisortiz11/luisortiz11.github.io/raw/main/Luis%20Daniel%20Ort%C3%ADz%20Montero.en.pdf) 
